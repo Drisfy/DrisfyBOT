@@ -4,7 +4,7 @@
   "description": "A discord bot made by Aidan (Alias: Drisfy)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Aidan (Alias: Drisfy)",
   "license": "ISC",
